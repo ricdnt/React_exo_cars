@@ -1,0 +1,12 @@
+.car {
+    background-color: pink;
+    margin: 5px auto;
+    padding: 10px;
+    text-align: center;
+    width: 400px;
+}
+
+.styled {
+    color: red;
+    text-transform: uppercase;
+}
